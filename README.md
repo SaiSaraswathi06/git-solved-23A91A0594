@@ -68,3 +68,4 @@ It supports multiple environments — **Production**, **Development**, and **Exp
 ```bash
 export DEPLOY_ENV=production
 ./scripts/deploy.sh
+## FAQ
